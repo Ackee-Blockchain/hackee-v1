@@ -3,8 +3,9 @@
 Hack our ERC-20 smart contract on Ropsten testnet, become a hackee and earn as many tokens as you can.
 
 Contract address: https://ropsten.etherscan.io/address/0x3F745A15b353F3858c899d91ec3201dE1669Bb85<br/>
-Install MetaMask wallet and switch the network to Ropsten: https://metamask.io/<br/>
-Get some free Ether to your wallet: https://faucet.ropsten.be/<br/>
+MetaMask wallet: https://metamask.io/<br/>
+Ropsten faucet: https://faucet.ropsten.be/<br/>
+Remix IDE: https://remix.ethereum.org/<br/>
 
 * Add yourself into hackees mapping.
   * Reward: 1 token
